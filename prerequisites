@@ -1,0 +1,4 @@
+pip install djangorequestframework (add in project settings.py the 'rest_framework' app)
+DRF transofrs our db models intro REST api ( serialize the data into json and viewset to define what data is sent)
+
+http://www.djangocrew.com/blog/django-rest-framework-tutorial/
